@@ -1,0 +1,15 @@
+div.description{
+	border-style: dotted solid dotted solid;
+	background-color: pink;
+	padding-top: 50px;
+    	padding-right: 30px;
+    	padding-bottom: 50px;
+    	padding-left: 80px;
+}
+
+svg.rectangle{
+	padding: 0px 0px 0px 0px;
+}
+h1.hengz{
+	text-align: center;
+}
